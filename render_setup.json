@@ -1,0 +1,8 @@
+{
+  "files": {
+    "requirements.txt": "python-telegram-bot==21.10",
+    "runtime.txt": "python-3.11.9",
+    "start_command": "python bot.py",
+    "build_command": "pip install -r requirements.txt"
+  }
+}
